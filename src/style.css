@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+  padding-top: 15px;
+  font-family: "Assistant", sans-serif;
+}
+h2 {
+  text-align: center;
+  font-family: "Assistant", sans-serif;
+  font-size: 25px;
+}
+a {
+  font-size: 25px;
+  color: black;
+  vertical-align: text-top;
+}
+.container {
+  background-image: linear-gradient(to top, #88d3ce 0%, #6e45e2 100%);
+  margin-top: 20px;
+  border-radius: 10px;
+  max-width: 1000px;
+}
+.emojiWeather {
+  text-align: center;
+  padding: 20px 0px 0px 0px;
+  font-size: 75px;
+}
+.temperature {
+  text-align: center;
+  font-size: 55px;
+  font-family: "Assistant", sans-serif;
+  margin-bottom: 0px;
+}
+.dateTime {
+  text-align: center;
+  padding: 1em 0em 1em 0em;
+  font-family: "Assistant", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.card-body {
+  text-align: center;
+  font-family: "Assistant", sans-serif;
+}
+.card-subtitle {
+  color: black;
+  font-weight: 500;
+}
+.card-text {
+  font-size: 20px;
+}
+.unit {
+  font-size: 25px;
+  vertical-align: text-top;
+}
+.form {
+  text-align: end;
+  padding: 1em;
+}
