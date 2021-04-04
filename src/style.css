@@ -13,11 +13,14 @@ a {
   color: black;
   vertical-align: text-top;
 }
+.container-total {
+  margin-top: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
 .container {
   background-image: linear-gradient(to top, #88d3ce 0%, #6e45e2 100%);
-  margin-top: 20px;
   border-radius: 10px;
-  max-width: 1000px;
 }
 .emojiWeather {
   text-align: center;
@@ -55,4 +58,9 @@ a {
 .form {
   text-align: end;
   padding: 1em;
+}
+.footnote {
+  font-family: "Assistant", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
 }
